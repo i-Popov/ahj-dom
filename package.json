@@ -11,11 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/i-Popov/ahj-dom"
   },
   "author": "Igor Popov",
   "license": "ISC",
-  "homepage": "",
+  "bugs": {
+    "url": "https://github.com/i-Popov/ahj-dom/issues"
+  },
+  "homepage": "https://github.com/i-Popov/ahj-dom#readme",
   "devDependencies": {
     "@babel/cli": "^7.13.16",
     "@babel/core": "^7.13.16",
@@ -42,5 +45,5 @@
   "dependencies": {
     "core-js": "^3.11.0"
   },
-  "description": ""
+  "description": "[![Build status](https://ci.appveyor.com/api/projects/status/58gs9i4fioeed9k4?svg=true)](https://ci.appveyor.com/project/i-Popov/ahj-dom)"
 }
